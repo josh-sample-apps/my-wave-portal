@@ -35,5 +35,5 @@ and you would need to do the following to access the web page: (You can skip to 
 
 ## Feedback 
 
-Please feel free to create issues for any bugs you find and any features/improvements you would like to see!  
+Please feel free to create issues for any bugs 🐞 you find and any features/improvements 📈 you would like to see!  
 
