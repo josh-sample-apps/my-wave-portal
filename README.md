@@ -21,8 +21,10 @@ and you would need to do the following to access the web page:
 4. Connect to the Rinkeby Test Network in your metamask plugin
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/58063491/160654471-d8c2c2a0-5ceb-49f5-a4ea-9a194f59354a.png">
 
-5. `Connect Wallet` from my app web-page:
+5. Get some ethers from a Rinkeby Faucet : https://rinkebyfaucet.com/ 
+
+6. `Connect Wallet` from my app web-page:
 <img width="595" alt="Screenshot 2022-03-29 at 9 30 45 PM" src="https://user-images.githubusercontent.com/58063491/160655086-4c73acea-effe-4c14-8782-cf2dfaede0ec.png">
 
-6. You should now be able to wave and send me a message, and you might also win ethers (but only on the test network for now 😸 ) !
+7. You should now be able to wave and send me a message, and you might also win ethers (but only on the test network for now 😸 ) !
 
