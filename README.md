@@ -18,7 +18,11 @@ and you would need to do the following to access the web page:
 2. Create a wallet (If you don't already have one), or import your existing wallet
 <img width="863" alt="Screenshot 2022-03-29 at 9 26 58 PM" src="https://user-images.githubusercontent.com/58063491/160654393-637ecf70-9fdc-4263-ba13-6593783dec46.png">
 
-4. Connect to the Rinkeby Test Network in your metamask plugin
+4. Connect to the Rinkeby Test Network in your metamask plugin :
+- Click on Account icon > Settings > Advanced Settings > Show test networks > Enable
+<img width="343" alt="image" src="https://user-images.githubusercontent.com/58063491/160659154-cb9704c1-9794-4b91-880a-9d9e107bb5b6.png">
+
+- Then select the Rinkeby test network here: 
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/58063491/160654471-d8c2c2a0-5ceb-49f5-a4ea-9a194f59354a.png">
 
 5. Get some ethers from a Rinkeby Faucet : https://rinkebyfaucet.com/ 
