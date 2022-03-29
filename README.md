@@ -32,3 +32,8 @@ and you would need to do the following to access the web page: (You can skip to 
 
 7. You should now be able to wave and send me a message, and you might also win ethers (but only on the test network for now 😸 ) !
 
+
+## Feedback 
+
+Please feel free to create issues for any bugs you find and any features/improvements you would like to see!  
+
