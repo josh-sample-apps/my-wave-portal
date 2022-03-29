@@ -12,7 +12,7 @@ I built this as part of a [buildspace](https://buildspace.so/) project cohort.
 ## To use the app :
 
 This is currently deployed to the Rinkeby Test Network, 
-and you would need to do the following to access the web page:
+and you would need to do the following to access the web page: (You can skip to step 6 if you already have a wallet account connected to Rinkeby network with some ethers in it)
 
 1. Install the MetaMask plugin for your browser at https://metamask.io/download
 2. Create a wallet (If you don't already have one), or import your existing wallet
